@@ -25,6 +25,11 @@ This repository is for anyone to create pull requests on, for practice or otherw
 
 Start adding your names here:
 
+### d-bhutada
+- I am pretty awesome and I like to do awesome stuff.
+- I have a pet Sheep and his name is Fleecey.
+- I work in databricks
+
 ### kimcodes
 - I work at Auth0!
 - I am currently doing a webinar with the awesome Ado! 
